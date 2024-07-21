@@ -1,0 +1,9 @@
+.calculator {
+  border: 1px solid rgba(150, 150, 150, 0.74);
+  width: 200px;
+  border-radius: 5px;
+}
+
+.heading {
+  font-size: 30px;
+}
